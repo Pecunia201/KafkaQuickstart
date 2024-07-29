@@ -1,7 +1,7 @@
 cmake_minimum_required (VERSION 3.8)
 
 # Set the project name
-project ("RTDataProcessing")
+project("KafkaQuickstart")
 
 # Add subdirectories for client and server
 add_subdirectory(src/client)
